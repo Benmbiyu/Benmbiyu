@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benmbiyu
 - 👀 I’m interested in developing web apps & mobile apps.
-- 🌱 I’m currently learning PHP, and well versed with Python, Javascript, Typescript & Bootstrap.
+- 🌱 I’m currently learning React, and well versed with Python, Javascript, Typescript & Bootstrap.
 - 💞️ I’m looking to collaborate on projects that involve business applications i.e ERP's, CMS's & Websites.
 - 📫 Reach me via email benmbiyu1@gmail.com
 
